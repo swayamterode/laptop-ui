@@ -1,1 +1,3 @@
-# laptop-ui
+# Laptop-ui
+
+Basic project of laptop UI
